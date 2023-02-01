@@ -3,7 +3,7 @@
     <div class="mx-auto relative w-auto">
       <a href="/">
         <figure class="inline-block h-12 w-12 relative">
-          <img class="block h-auto w-full" src="logo-gradient.svg" />
+          <img class="block h-auto w-full" src="/logo-gradient.svg" />
         </figure>
       </a>
       <div class="md:flex justify-center -mw-3 mt-2">

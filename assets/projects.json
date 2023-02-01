@@ -2,22 +2,22 @@
   {
     "title": "Polititrack",
     "description": "Follow the 2016 presidential election.",
-    "thumbnail": "polititrack.png",
-    "demo": "polititrack.mov",
+    "thumbnail": "/polititrack.png",
+    "demo": "/polititrack.mov",
     "link": "https://polititrack.us"
   },
   {
     "title": "Simudraft",
     "description": "A generic mock draft simulator.",
-    "thumbnail": "simudraft.png",
-    "demo": "simudraft.mov",
+    "thumbnail": "/simudraft.png",
+    "demo": "/simudraft.mov",
     "link": "https://simudraft.netlify.app/"
   },
   {
     "title": "Perception Website",
     "description": "A homepage for a freelance client.",
-    "thumbnail": "perception.png",
-    "demo": "perception.mov",
+    "thumbnail": "/perception.png",
+    "demo": "/perception.mov",
     "link": "https://perception.net"
   }
 ]

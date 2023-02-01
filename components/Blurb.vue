@@ -4,7 +4,7 @@
       class="mx-auto flex items-center justify-between md:justify-around w-100 md:w-9/12 pt-3 md:py-0"
     >
       <figure class="md:h-[450px] w-1/3 md:w-auto overflow-hidden">
-        <img class="block w-auto" src="Subject.png" />
+        <img class="block w-auto" src="/Subject.png" />
       </figure>
       <div
         class="w-2/3 md:w-auto max-w-prose px-3 md:px-6 font-sans text-md md:text-lg"

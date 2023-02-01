@@ -8,7 +8,7 @@
         <div class="-mx-3 -mt-3 last:-mb-3 justify-center md:flex">
           <div class="block basis-0 shrink grow p-3">
             <div class="logo block relative mb-3">
-              <img class="block h-auto w-full" src="logo-gradient.svg" />
+              <img class="block h-auto w-full" src="/logo-gradient.svg" />
             </div>
             <h1
               class="text-white text-opacity-80 text-3xl lg:text-5xl font-bold"
