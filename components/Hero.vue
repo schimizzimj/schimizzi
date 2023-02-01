@@ -1,6 +1,6 @@
 <template>
   <section
-    class="min-h-screen items-stretch flex flex-col justify-between bg-zinc-900"
+    class="min-h-screen items-stretch flex flex-col justify-between bg-[#212121]"
   >
     <Blobs class="z-0" />
     <div class="grow shrink-0 p-12 flex items-center">

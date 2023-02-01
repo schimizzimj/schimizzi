@@ -5,6 +5,7 @@ import {
   faCoffee,
   faCopyright,
   faHeart,
+  faArrowUpRightFromSquare,
 } from "@fortawesome/free-solid-svg-icons";
 import {
   faGithub,
@@ -23,7 +24,8 @@ library.add(
   faGithub,
   faInstagram,
   faLinkedin,
-  faFacebook
+  faFacebook,
+  faArrowUpRightFromSquare
 );
 
 export default defineNuxtPlugin((nuxtApp) => {

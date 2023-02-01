@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#fafafa] pt-12 pw-6 pb-24 text-center">
+  <footer class="bg-[#212121] pt-12 pw-6 pb-24 text-center">
     <div class="mx-auto relative w-auto">
       <a href="/">
         <figure class="inline-block h-12 w-12 relative">
@@ -8,7 +8,7 @@
       </a>
       <div class="md:flex justify-center -mw-3 mt-2">
         <div class="block p-3 md:w-1/3">
-          <h1 class="text-xl lg:text-3xl font-semibold text-gray-800">
+          <h1 class="text-xl lg:text-3xl font-semibold text-gray-50">
             Marcus J. Schimizzi
           </h1>
         </div>
@@ -16,7 +16,7 @@
       <div class="mt-3">
         <SocialMediaLogos />
       </div>
-      <div class="mt-3">
+      <div class="mt-3 text-gray-100">
         Made by me with
         <font-awesome-icon
           class="text-[#b51442] align-middle"
