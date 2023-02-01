@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-[#212121] pt-12 pw-6 pb-24 text-center">
+  <footer class="bg-[#151a1e] pt-12 pw-6 pb-24 text-center">
     <div class="mx-auto relative w-auto">
       <a href="/">
         <figure class="inline-block h-12 w-12 relative">

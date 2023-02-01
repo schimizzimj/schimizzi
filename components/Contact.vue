@@ -1,6 +1,6 @@
 <template>
   <section
-    class="w-full bg-[#2e2e2e] min-h-64 text-gray-50 flex justify-center items-center py-24"
+    class="w-full bg-[#070b0d] min-h-64 text-gray-50 flex justify-center items-center py-24"
   >
     <div
       class="max-w-prose text-2xl md:text-4xl font-extrabold text-center lg:text-justify"

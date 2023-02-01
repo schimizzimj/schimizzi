@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-[#2e2e2e] text-gray-50">
+  <section class="bg-[#070b0d] text-gray-50">
     <div
       class="mx-auto flex items-center justify-between md:justify-around w-100 md:w-9/12 pt-3 md:py-0"
     >
