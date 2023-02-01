@@ -1,0 +1,14 @@
+@charset 'utf-8';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$blue: #1f5abd;
+$purple: #8910a8;
+
+$primary: $blue;
+
+::selection {
+  background: rgba($color: #8910a8, $alpha: 0.6);
+  color: #fff;
+}
