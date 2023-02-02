@@ -18,3 +18,16 @@
     </div>
   </section>
 </template>
+
+<style scoped lang="scss">
+section {
+  background: rgb(7, 11, 13);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    linear-gradient(
+      96deg,
+      rgba(7, 11, 13, 1) 0%,
+      rgba(31, 90, 189, 1) 35%,
+      rgba(137, 16, 168, 1) 100%
+    );
+}
+</style>
