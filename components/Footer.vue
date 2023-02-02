@@ -17,19 +17,27 @@
         <SocialMediaLogos />
       </div>
       <div class="mt-3 text-gray-100">
-        Made by me with
-        <font-awesome-icon
-          class="text-[#b51442] align-middle"
-          icon="fa-solid fa-heart"
-        />
-        and lots of
-        <font-awesome-icon
-          class="text-[saddlebrown] align-middle"
-          icon="fa-solid fa-coffee"
-        />
-        <br />
-        <font-awesome-icon icon="fa-solid fa-copyright" class="align-middle" />
-        2023
+        <p>
+          Made by me with
+          <font-awesome-icon
+            class="text-[#b51442] align-middle"
+            icon="fa-solid fa-heart"
+          />
+        </p>
+        <p>
+          and lots of
+          <font-awesome-icon
+            class="text-[saddlebrown] align-middle"
+            icon="fa-solid fa-coffee"
+          />
+        </p>
+        <p>
+          <font-awesome-icon
+            icon="fa-solid fa-copyright"
+            class="align-middle"
+          />
+          2023
+        </p>
       </div>
     </div>
   </footer>
