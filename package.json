@@ -22,6 +22,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/vue-fontawesome": "^3.0.3",
     "@pixi/filter-kawase-blur": "^5.1.1",
+    "@ubclaunchpad/vue-fathom": "^2.0.0",
     "debounce": "^1.2.1",
     "hsl-to-hex": "^1.0.0",
     "pixi.js": "^7.1.2",

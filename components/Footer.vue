@@ -35,7 +35,7 @@
           <font-awesome-icon
             icon="fa-solid fa-copyright"
             class="align-middle"
-          />
+          ></font-awesome-icon>
           2023
         </p>
       </div>
