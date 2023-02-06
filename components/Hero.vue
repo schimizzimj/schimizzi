@@ -16,7 +16,7 @@
               Hi, I'm Marcus. <br />
               <span class="gradient">
                 Software developer,<br />
-                world traveler,<br />
+                travel enthusiast,<br />
                 and policy junkie too.
               </span>
             </h1>
