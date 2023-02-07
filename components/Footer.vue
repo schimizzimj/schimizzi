@@ -32,11 +32,13 @@
           />
         </p>
         <p>
-          <font-awesome-icon
-            icon="fa-solid fa-copyright"
-            class="align-middle"
-          ></font-awesome-icon>
-          2023
+          <span>
+            <font-awesome-icon
+              icon="fa-solid fa-copyright"
+              class="align-middle"
+            ></font-awesome-icon>
+          </span>
+          <span>{{ " " }}2023</span>
         </p>
       </div>
     </div>
