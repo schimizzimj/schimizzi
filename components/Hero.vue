@@ -17,7 +17,7 @@
               <span class="gradient">
                 Software developer,<br />
                 travel enthusiast,<br />
-                and policy junkie too.
+                and avid policy wonk too.
               </span>
             </h1>
             <SocialMediaLogos />
